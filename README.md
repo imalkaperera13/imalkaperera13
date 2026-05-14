@@ -1,6 +1,3 @@
-# 🚀 Modern GitHub Profile README for Imalka Perera
-
-```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=250&section=header&text=Imalka%20Perera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20AI%20Engineer%20%7C%20Software%20Engineer&descAlignY=55" width="100%"/>
 </p>
@@ -156,7 +153,7 @@ Enterprise-grade CI/CD pipeline deployment using Kubernetes and AWS.
 # 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -180,32 +177,3 @@ Enterprise-grade CI/CD pipeline deployment using Kubernetes and AWS.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=120&section=footer"/>
 </p>
-```
-
-# 📌 How to Use
-
-1. Create a new repository with the SAME name as your GitHub username.
-2. Open the `README.md` file.
-3. Copy everything inside the code block above.
-4. Paste it into your `README.md`.
-5. Commit changes.
-6. Your profile README will appear automatically.
-
-# 🔧 Things You Should Edit
-
-Replace:
-
-```md
-YOUR_LINKEDIN
-```
-
-with your actual LinkedIn profile link.
-
-You can also later add:
-
-* Portfolio Website
-* Visitor Counter
-* Spotify Widget
-* Coding Activity Stats
-* Custom Banners
-* Project GIFs
