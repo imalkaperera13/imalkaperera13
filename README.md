@@ -29,7 +29,7 @@
 
 ## ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,githubactions,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,githubactions,linux,bash,jenkins" />
 </p>
 
 ## 💻 Programming & Development
