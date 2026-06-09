@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Imalka Perera</h1>
-<h3 align="center">DevOps Engineer Intern • AI Enthusiastic • Software Engineering Undergraduate</h3>
+<h3 align="center">DevOps Engineer Intern • AI Enthusiastic • Computer Science Undergraduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Science+Undergraduate;AWS+%7C+Docker+%7C+Kubernetes+Enthusiast;Building+Scalable+Cloud+Applications;Open+Source+Contributor;Passionate+About+DevOps+%26+AI" />
